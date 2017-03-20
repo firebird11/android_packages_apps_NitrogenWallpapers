@@ -31,7 +31,7 @@ import android.widget.TextView;
 import com.android.wallpaperpicker.WallpaperPickerActivity;
 import com.android.wallpaperpicker.WallpaperUtils;
 
-import org.slim.wallpapers.R;
+import org.crdroid.wallpapers.R;
 
 import java.util.ArrayList;
 import java.util.HashSet;

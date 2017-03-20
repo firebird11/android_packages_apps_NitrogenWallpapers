@@ -49,7 +49,7 @@ import com.android.photos.views.TiledImageRenderer.TileSource;
 import com.android.wallpaperpicker.common.DialogUtils;
 import com.android.wallpaperpicker.common.InputStreamProvider;
 
-import org.slim.wallpapers.R;
+import org.crdroid.wallpapers.R;
 
 import java.util.Collections;
 import java.util.Set;

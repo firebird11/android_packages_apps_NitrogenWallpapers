@@ -31,7 +31,7 @@ import com.android.photos.BitmapRegionTileSource.BitmapSource;
 import com.android.wallpaperpicker.WallpaperPickerActivity;
 import com.android.wallpaperpicker.common.InputStreamProvider;
 
-import org.slim.wallpapers.R;
+import org.crdroid.wallpapers.R;
 
 public class UriWallpaperInfo extends DrawableThumbWallpaperInfo {
 

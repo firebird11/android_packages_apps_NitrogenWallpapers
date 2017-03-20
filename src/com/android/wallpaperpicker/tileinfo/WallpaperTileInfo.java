@@ -30,7 +30,7 @@ import com.android.gallery3d.common.Utils;
 import com.android.wallpaperpicker.WallpaperPickerActivity;
 import com.android.wallpaperpicker.common.InputStreamProvider;
 
-import org.slim.wallpapers.R;
+import org.crdroid.wallpapers.R;
 
 public abstract class WallpaperTileInfo {
 

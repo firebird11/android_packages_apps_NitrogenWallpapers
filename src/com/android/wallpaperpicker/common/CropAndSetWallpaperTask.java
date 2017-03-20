@@ -23,7 +23,7 @@ import android.os.AsyncTask;
 import android.util.Log;
 import android.widget.Toast;
 
-import org.slim.wallpapers.R;
+import org.crdroid.wallpapers.R;
 
 import java.io.ByteArrayInputStream;
 import java.io.ByteArrayOutputStream;

@@ -33,7 +33,7 @@ import android.widget.ImageView;
 
 import com.android.wallpaperpicker.WallpaperPickerActivity;
 
-import org.slim.wallpapers.R;
+import org.crdroid.wallpapers.R;
 
 public class PickImageInfo extends WallpaperTileInfo {
 

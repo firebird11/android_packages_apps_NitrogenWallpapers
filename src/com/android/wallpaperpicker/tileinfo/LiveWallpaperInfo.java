@@ -34,7 +34,7 @@ import android.widget.TextView;
 
 import com.android.wallpaperpicker.WallpaperPickerActivity;
 
-import org.slim.wallpapers.R;
+import org.crdroid.wallpapers.R;
 import org.xmlpull.v1.XmlPullParserException;
 
 import java.io.IOException;

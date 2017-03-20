@@ -20,7 +20,7 @@ import android.content.Context;
 import android.content.DialogInterface;
 import android.os.AsyncTask;
 
-import org.slim.wallpapers.R;
+import org.crdroid.wallpapers.R;
 
 /**
  * Utility class used to show dialogs for things like picking which wallpaper to set.

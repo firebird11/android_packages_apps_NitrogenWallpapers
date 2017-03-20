@@ -51,7 +51,7 @@ import com.android.wallpaperpicker.tileinfo.ThirdPartyWallpaperInfo;
 import com.android.wallpaperpicker.tileinfo.UriWallpaperInfo;
 import com.android.wallpaperpicker.tileinfo.WallpaperTileInfo;
 
-import org.slim.wallpapers.R;
+import org.crdroid.wallpapers.R;
 
 import java.util.ArrayList;
 import java.util.List;

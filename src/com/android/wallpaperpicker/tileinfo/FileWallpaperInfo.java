@@ -31,7 +31,7 @@ import com.android.wallpaperpicker.common.DialogUtils;
 import com.android.wallpaperpicker.common.InputStreamProvider;
 import com.android.wallpaperpicker.common.WallpaperManagerCompat;
 
-import org.slim.wallpapers.R;
+import org.crdroid.wallpapers.R;
 
 import java.io.File;
 import java.io.IOException;

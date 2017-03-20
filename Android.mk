@@ -29,6 +29,6 @@ LOCAL_RESOURCE_DIR := \
 
 LOCAL_AAPT_FLAGS := --auto-add-overlay
 
-LOCAL_PACKAGE_NAME := SlimWallpapers
+LOCAL_PACKAGE_NAME := crDroidWallpapers
 include $(BUILD_PACKAGE)
 
