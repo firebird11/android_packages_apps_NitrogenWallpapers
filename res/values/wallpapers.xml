@@ -13,36 +13,23 @@
 -->
 <resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
     <string-array name="wallpapers" translatable="false">
-        <item>ancientstatic</item>
-        <item>burningbluestatic</item>
         <item>canyonsdawn</item>
         <item>citybeach</item>
         <item>citybridgeday</item>
         <item>citybridgesunset</item>
         <item>cityriversunset</item>
-        <item>crdroidred</item>
-        <item>earthscroll</item>
-        <item>earthstatic</item>
-        <item>eyestatic</item>
-        <item>goldstatic</item>
+        <item>earth</item>
         <item>lake</item>
         <item>lakeviewday</item>
         <item>lakeviewnight</item>
         <item>lakeviewsunset</item>
-        <item>lightningscroll</item>
-        <item>lightningstatic</item>
+        <item>lightning</item>
         <item>mountainsday</item>
-        <item>neptunescroll</item>
-        <item>neptunestatic</item>
-        <item>planetscroll</item>
-        <item>planetstatic</item>
-        <item>puzzlestatic</item>
-        <item>pyramidstatic</item>
-        <item>rednebulascroll</item>
-        <item>rednebulastatic</item>
+        <item>neptune</item>
+        <item>planet</item>
+        <item>rednebula</item>
         <item>summer</item>
-        <item>vortexscroll</item>
-        <item>vortexstatic</item>
+        <item>vortex</item>
         <item>winter</item>
     </string-array>
 </resources>
